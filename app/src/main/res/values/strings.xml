@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RiafyUITest</string>
+    <string name="your_string_resource_name">This is normal text<![CDATA[<b> but this is bold </b>]]> and <![CDATA[<u> but this is underline text</u>]]></string>
+
+    <string name="dummy_description">Maju is a series of 5 indoor planters whose compact size and clean lines can complement any room. Maju comes from the Japanese "majura"
+    ,meaning modular. it refers to products designed to meet the expectations. Maju is a series of 5 indoor planters whose compact size and clean lines can complement any room. Maju comes from the Japanese "majura"
+    ,meaning modular. it refers to products designed to meet the expectations.
+    </string>
+
+</resources>
